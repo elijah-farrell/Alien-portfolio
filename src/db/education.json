@@ -1,79 +1,38 @@
 [
 	{
-		"level": "Graduate",
-		"degree": "Master of Science",
-		"majors": [
-			"Computer Science"
-		],
-		"minors": [],
-		"institution": "Seattle University",
-		"location": "Seattle, WA",
-		"from": "June 2022",
-		"to": "June 2023",
-		"status": "graduated",
-		"gpa": "4.0",
-		"bullet-points": [
-            "Outstanding Computer Science Graduate Student Award 2023",
-            "Award for Research and Collaboration in STEM",
-			"Graduate Representative - Seattle University ACM",
-			"Dean's Honor Roll x2",
-			"First-generation college student",
-			"Fast Track student"
-		]
-	},
-	{
 		"level": "Undergraduate",
 		"degree": "Bachelor of Science",
 		"majors": [
 			"Computer Science"
 		],
-		"minors": [
-			"Data Science"
-		],
-		"institution": "Seattle University",
-		"location": "Seattle, WA",
-		"from": "September 2019",
-		"to": "June 2022",
+		"minors": [],
+		"institution": "SUNY Polytechnic Institute",
+		"location": "Utica, NY",
+		"from": "2023",
+		"to": "May 2025",
 		"status": "graduated",
-		"gpa": "3.953",
+		"gpa": "3.88",
 		"bullet-points": [
-			"Outstanding Computer Science Undergraduate Student Award 2022",
-			"Summa Cum Laude",
-			"President's List x8",
-			"Dean's List x9",
-			"First-generation college student",
-			"Fast Track student"
+			"Magna Cum Laude",
+			"B.S. Computer Science"
 		]
 	},
 	{
 		"level": "Undergraduate",
-		"degree": "",
-		"majors": [],
+		"degree": "Associate of Science",
+		"majors": [
+			"Computer Science"
+		],
 		"minors": [],
-		"institution": "Everett Community College",
-		"location": "Everett, WA",
-		"from": "September 2017",
-		"to": "June 2019",
-		"status": "transfered",
-		"gpa": "3.74",
-		"bullet-points": [
-			"Running Start full-time as a high school upperclassman",
-			"Transferred credits to Seattle University"
-		]
-	},
-	{
-		"level": "High School",
-		"degree": "High School Diploma",
-		"majors": [],
-		"minors": [],
-		"institution": "Granite Falls High School",
-		"location": "Granite Falls, WA",
-		"from": "September 2015",
-		"to": "June 2019",
+		"institution": "Jefferson Community College",
+		"location": "Watertown, NY",
+		"from": "2021",
+		"to": "2023",
 		"status": "graduated",
-		"gpa": "3.71",
+		"gpa": "",
 		"bullet-points": [
-			"Running Start full-time as a high school upperclassman"
+			"A.S. in Computer Science",
+			"Transferred to SUNY Polytechnic Institute"
 		]
 	}
 ]

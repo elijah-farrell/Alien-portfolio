@@ -1,203 +1,61 @@
 [
-    {
-        "title": "Schrodle",
-        "from": "February 2024",
-        "to": "May 2024",
-        "description": "Schrodle is a game that is inspired by Wordle and the Schrödinger's Cat thought experiment.",
-        "bullet-points": [],
-        "ref": "https://github.com/thoresonjd/schrodle"
-    },
-    {
-        "title": "Password Manager",
-        "from": "December 2023",
-        "to": "January 2024",
-        "description": "",
-        "bullet-points": [
-            "Generated passwords conforming to length and character requirements",
-            "Logged input to ensure reproducibility of passwords if forgotten",
-            "Rendered simple graphical user interface for ease of use",
-            "Python, Git, VS Code"
-        ],
-        "ref": "https://github.com/thoresonjd/password-manager"
-    },
-    {
-        "title": "Plants vs. Zombies I, Zombie Bungee Glitch AutoHotkey",
-        "from": "September 2023",
-        "to": "September 2023",
-        "description": "AutoHotkey script exploiting the Bungee Zombie glitch in the I, Zombie puzzle game mode in Plants vs. Zombies: Game of the Year Edition.",
-        "bullet-points": [],
-        "ref": "https://github.com/thoresonjd/pvz-izombie-bungee-glitch-autohotkey"
-    },
 	{
-		"title": "Web Proxy",
-		"from": "April 2023",
-		"to": "April 2023",
-		"description": "",
+		"title": "Portfolio Website",
+		"from": "2024",
+		"to": "2025",
+		"description": "My personal portfolio showcasing my projects, experience, and skills with an interactive design.",
 		"bullet-points": [
-			"Implemented HTTP request forwarding to origin servers via TCP connections",
-			"Codified web page caching for successful HTTP responses",
-			"Created and parsed HTTP requests and responses",
-			"Python, Git, VS Code"
-		],
-		"ref": "https://github.com/thoresonjd/web-proxy-python"
-	},
-	{
-		"title": "DBMS Relation Manager",
-		"from": "January 2023",
-		"to": "March 2023",
-		"description": "",
-		"bullet-points": [
-			"Codified key Relational Database Management System (RDBMS) features and requirements",
-			"Utilized open-source software for SQL parsing and file management",
-			"Debugged C++ errors and memory leaks via Valgrind",
-			"C++, Make, Valgrind, Git, VS Code"
+			"React",
+			"TypeScript",
+			"Material UI",
+			"GitHub Pages"
 		],
 		"ref": ""
 	},
 	{
-		"title": "K-means Clustering on MNIST Dataset Using MPI",
-		"from": "February 2023",
-		"to": "February 2023",
-		"description": "",
+		"title": "More-Armor Mod",
+		"from": "2024",
+		"to": "2025",
+		"description": "A Minecraft Forge mod that adds 36 unique armor sets with animations and unique designs. Features configurable armor stats and visual effects.",
 		"bullet-points": [
-			"Clustered images of handwritten digits via Euclidean distance of greyscale pixel values",
-			"Optimized clustering of images via parallelization using Message Passing Interface (MPI)",
-			"Visualized similar digits via generating dynamic HTML output file",
-			"C++, OpenMPI, HTML, Make, Valgrind, VS Code"
-		],
-		"ref": "https://github.com/thoresonjd/mnist-kmeans-mpi"
-	},
-	{
-		"title": "React Portfolio",
-		"from": "August 2022",
-		"to": "November 2022",
-		"description": "",
-		"bullet-points": [
-			"Created, designed, and codified my own personal portfolio website",
-			"Deployed site build to the web via GitHub Pages",
-			"Configured custom domain via GoDaddy",
-			"React, TypeScript, NodeJS, GitHub, VS Code"
-		],
-		"ref": "https://github.com/thoresonjd/react-portfolio"
-	},
-	{
-		"title": "Markdown Portfolio",
-		"from": "July 2022",
-		"to": "July 2022",
-		"description": "",
-		"bullet-points": [
-			"Created a template to easily construct, customize, and publicize a personal portfolio",
-			"Markdown, GitHub, VS Code"
-		],
-		"ref": "https://github.com/thoresonjd/markdown-portfolio"
-	},
-	{
-		"title": "Votegrity SaaS Solution",
-		"from": "September 2021",
-		"to": "June 2022",
-		"description": "Senior Capstone Project - Seattle University | Sponsor: Tom Thomas - Votegrity CEO",
-		"bullet-points": [
-			"Collaborated with capstone team to design an election administration UI",
-			"Communicated with sponsor to create UI wireframes",
-			"Codified election administration UI by establishing foundation for critical functionality",
-			"React, JavaScript, NodeJS, VS Code, Figma"
+			"Java",
+			"Minecraft 1.20.1",
+			"Minecraft Forge",
+			"Gradle"
 		],
 		"ref": ""
 	},
 	{
-		"title": "Image Processor API",
-		"from": "April 2022",
-		"to": "May 2022",
-		"description": "",
+		"title": "Portfolio Template (minimal)",
+		"from": "2024",
+		"to": "2025",
+		"description": "Minimal portfolio template focused on showcasing your work without distractions.",
 		"bullet-points": [
-			"Utilized a RESTful API to process image transformations",
-			"Created with emphasis on architectural design patterns",
-			"C#, Python, TypeScript, React, Flask, REST, VS Code"
+			"Next.js 15",
+			"React 19",
+			"TypeScript",
+			"Tailwind CSS",
+			"Aceternity UI",
+			"Shadcn UI",
+			"Radix UI",
+			"Framer Motion"
 		],
-		"ref": "https://github.com/thoresonjd/image-processor-api"
+		"ref": ""
 	},
 	{
-		"title": "Predicting Stock Market with Sentiment Analysis",
-		"from": "February 2022",
-		"to": "February 2022",
-		"description": "HackSU - Seattle University ACM Hackathon",
+		"title": "Animated 3D Portfolio Template",
+		"from": "2024",
+		"to": "2025",
+		"description": "A fully animated 3D developer portfolio template with scroll-based interactions designed to showcase work in an immersive way.",
 		"bullet-points": [
-			"2nd place - HackSU 2022",
-			"Analyzed finance articles via web scraping and NLP",
-			"Compared sentiment analysis score to stock price changes",
-			"Python, VS Code"
+			"React 19",
+			"JavaScript",
+			"Vite",
+			"Tailwind CSS",
+			"Three.js",
+			"GSAP",
+			"Framer Motion"
 		],
-		"ref": "https://github.com/a-wallen/stm-toolkit"
-	},
-	{
-		"title": "WinPyTools",
-		"from": "January 2022",
-		"to": "January 2022",
-		"description": "",
-		"bullet-points": [
-			"Windows shortcuts with hotkey commands",
-			"Python, VS Code"
-		],
-		"ref": "https://github.com/thoresonjd/WinPyTools"
-	},
-	{
-		"title": "Portal Illusion",
-		"from": "September 2021",
-		"to": "December 2021",
-		"description": "",
-		"bullet-points": [
-			"Created a computer graphics simulation of an illusion of a cube passing through a portal",
-			"Utilized custom computer graphics framework",
-            "Implemented shaders, textures, particles, and audio output",
-            "C++, GLSL, OpenGL, Visual Studio"
-		],
-		"ref": "https://github.com/thoresonjd/cpsc5700/tree/main/Apps/PortalIllusion"
-	},
-	{
-		"title": "Depth Spectrum",
-		"from": "October 2021",
-		"to": "November 2021",
-		"description": "Personal Projects Competition - Seattle University ACM",
-		"bullet-points": [
-			"3rd Place - Personal Projects Competition SU ACM",
-			"Mobile application that transforms 2D images into 3D models where pixel depth is dependent on colorblindness type",
-			"Designed UX/UI and created camera functionality for image processing",
-			"Dart, Flutter, VS Code"
-		],
-		"ref": "https://github.com/varelandrew/DepthSpectrum"
-	},
-	{
-		"title": "Online Learning Database",
-		"from": "March 2021",
-		"to": "June 2021",
-		"description": "",
-		"bullet-points": [
-			"Database design that functions as the underlying structure of a hypothetical online learning scheduling service",
-			"MySQL, PHP, HTML/CSS"
-		],
-		"ref": "https://github.com/thoresonjd/online-learning-database"
-	},
-	{
-		"title": "Global Calendar",
-		"from": "January 2021",
-		"to": "March 2021",
-		"description": "",
-		"bullet-points": [
-			"SaaS application that provides a convenient way to schedule events across different time zones",
-			"TypeScript, NodeJS, Angular, MongoDB, WebStorm"
-		],
-		"ref": "https://github.com/thoresonjd/Global-Calendar"
-	},
-	{
-		"title": "ASCII Rocket Launch",
-		"from": "June 2019",
-		"to": "June 2019",
-		"description": "",
-		"bullet-points": [
-			"A simple program animating an ASCII rocket ship launch",
-			"My first personal project, and one of my first programs",
-			"C++, Visual Studio"
-		],
-		"ref": "https://github.com/thoresonjd/ascii-rocket-launch"
+		"ref": ""
 	}
 ]

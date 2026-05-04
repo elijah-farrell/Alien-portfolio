@@ -23,7 +23,7 @@ export const useStyles: any = makeStyles(() => ({
 		},
 		'& span': {
 			display: 'block !important',
-			backgroundColor: 'lime !important',
+			backgroundColor: `${colors.Accent} !important`,
 			height: '4px !important',
 			width: '27px !important',
 			marginTop: '5px !important',
@@ -46,14 +46,14 @@ export const useStyles: any = makeStyles(() => ({
 		textTransform: 'lowercase',
 		fontFamily: 'press-start !important',
 		fontSize: '1rem',
-		color: colors.Lime,
+		color: colors.Accent,
 		border: 'none',
 		padding: '5px 10px',
 
 		// Animation
 		display: 'inline-block',
 		backgroundColor: colors.Transparent,
-		backgroundImage: `linear-gradient(${colors.Lime} 0 0)`,
+		backgroundImage: `linear-gradient(${colors.Accent} 0 0)`,
 		backgroundPosition: '0 50%',
 		backgroundSize: '0 100%',
 		backgroundRepeat: 'no-repeat',
@@ -65,7 +65,7 @@ export const useStyles: any = makeStyles(() => ({
 		'&:active': {
 			color: colors.Black,
 			backgroundSize: '100% 100%',
-			backgroundImage: `linear-gradient(${colors.Green} 0 0)`
+			backgroundImage: `linear-gradient(${colors.AccentDeep} 0 0)`
 		}
 	},
 
@@ -83,7 +83,7 @@ export const useStyles: any = makeStyles(() => ({
 	/*** Timeline ***/
 
 	timelineTitle: {
-		color: colors.Lime,
+		color: colors.Accent,
 		fontFamily: 'press-start !important',
 		textAlign: 'center',
 		textTransform: 'lowercase',
@@ -106,10 +106,10 @@ export const useStyles: any = makeStyles(() => ({
 		boxShadow: 'none !important'
 	},
 	timelineConnector: {
-		backgroundColor: `${colors.Lime} !important`
+		backgroundColor: `${colors.Accent} !important`
 	},
 	timelineIcon: {
-		color: colors.Lime
+		color: colors.Accent
 	},
 	timelineItemContent: {
 		overflow: 'auto',
@@ -119,7 +119,7 @@ export const useStyles: any = makeStyles(() => ({
 	timelineItemCard: {
 		display: 'flex',
 		background: `${colors.Transparent} !important`,
-		border: `2px solid ${colors.Lime}`
+		border: `2px solid ${colors.Accent}`
 	},
 	itemTimeframe: {
 		fontFamily: 'press-start !important',
@@ -159,7 +159,7 @@ export const useStyles: any = makeStyles(() => ({
 		fontFamily: 'press-start !important',
 		fontSize: '2rem',
 		textAlign: 'center',
-		color: colors.Lime
+		color: colors.Accent
 	},
 	audioPlayer: {
 		margin: '5vh auto'
@@ -185,7 +185,7 @@ export const useStyles: any = makeStyles(() => ({
 		maxHeight: '35vh',
 		margin: '2.5vh 25vw',
 		padding: '1.5vh 1.5vw',
-		border: `3px solid ${colors.White}`,
+		border: `3px solid ${colors.Accent}`,
 		borderRadius: '10px'
 	},
 	linksBox: {
@@ -200,7 +200,7 @@ export const useStyles: any = makeStyles(() => ({
 	linksList: {
 		overflowY: 'auto',
 		maxHeight: '50vh',
-		border: `3px solid ${colors.White}`,
+		border: `3px solid ${colors.Accent}`,
 		borderRadius: '10px'
 	},
 
@@ -211,7 +211,7 @@ export const useStyles: any = makeStyles(() => ({
 		textAlign: 'center'
 	},
 	copyright: {
-		color: colors.Lime,
+		color: colors.Accent,
 		fontFamily: 'press-start !important',
 		fontSize: '1rem !important',
 		padding: '2.5vh 2.5vw'
@@ -228,12 +228,12 @@ export const useStyles: any = makeStyles(() => ({
 	notFoundTitle: {
 		fontFamily: 'press-start !important',
 		fontSize: '4rem !important',
-		color: colors.Lime
+		color: colors.Accent
 	},
 	notFoundSubtitle: {
 		fontFamily: 'press-start !important',
 		fontSize: '2rem !important',
-		color: colors.Lime
+		color: colors.Accent
 	},
 	notFoundImage: {
 		width: '66vw',
@@ -266,19 +266,19 @@ export const useStyles: any = makeStyles(() => ({
 		// Animation
 		display: 'inline-block',
 		backgroundColor: colors.Transparent,
-		backgroundImage: `linear-gradient(${colors.Lime} 0 0)`,
+		backgroundImage: `linear-gradient(${colors.Accent} 0 0)`,
 		backgroundPosition: '0 100%',
 		backgroundSize: '0 2px',
 		backgroundRepeat: 'no-repeat',
 		transition: 'background-size 0.3s',
 		'&:hover': {
-			color: colors.Lime,
+			color: colors.Accent,
 			backgroundSize: '100% 2px'
 		},
 		'&:active': {
-			color: colors.Green,
+			color: colors.AccentDeep,
 			backgroundSize: '100% 2px',
-			backgroundImage: `linear-gradient(${colors.Green} 0 0)`
+			backgroundImage: `linear-gradient(${colors.AccentDeep} 0 0)`
 		}
 	}
 }));

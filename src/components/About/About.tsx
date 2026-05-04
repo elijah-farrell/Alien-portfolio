@@ -4,8 +4,6 @@ import { Typography, Avatar, List, ListItem, Icon, Link as MuiLink, Zoom, Fade }
 import TabTitle from '../TabTitle';
 import { useStyles } from '../../theme';
 import avatar from '../../assets/images/alien-lime.png';
-import name from '../../assets/gifs/justin-jitter.gif';
-import alias from '../../assets/gifs/exulgor-jitter.gif';
 import about from '../../db/about.json';
 
 export const About: React.FC = (): JSX.Element => {
@@ -25,19 +23,7 @@ export const About: React.FC = (): JSX.Element => {
 					/>
 				</Zoom>
 				<Zoom in={true}>
-					<img
-						className={classes.aboutName}
-						alt='name'
-						src={name}
-					/>
-				</Zoom>
-				<div className={classes.bodyText}>a.k.a</div>
-				<Zoom in={true}>
-					<img
-						className={classes.aboutName}
-						alt='alias'
-						src={alias}
-					/>
+					<h2 className='about-name-glitch'>{about.name}</h2>
 				</Zoom>
 				<div className={classes.center}>
 					<Link to={'/resume'}>

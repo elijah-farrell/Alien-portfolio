@@ -5,7 +5,7 @@ import { useStyles } from '../../theme';
 export const Footer: React.FC = (): JSX.Element => {
 	const classes: any = useStyles();
 	const year: number = new Date().getFullYear();
-	const author: string = 'Justin Thoreson';
+	const author: string = 'Elijah Farrell';
 
 	return (
 		<Box className={classes.footer}>

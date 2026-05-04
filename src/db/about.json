@@ -1,42 +1,18 @@
 {
-	"name": "Justin Thoreson",
-	"description": "Hey! I'm Justin. I studied Computer Science at Seattle University, where I graduated with both a Bachelor's and a Master's degree. Currently, I am working as an Associate Network Engineer, SDET for Nintendo Technology Development as a contractor through TEKsystems. I'm interested in exploring networks, graphics, and other systems-level and low-level topics within tech. My hobbies include long walks, working out, moviegoing, and coding. :)",
+	"name": "Elijah Farrell",
+	"description": "My journey began at Jefferson Community College, where I earned my A.S. in Computer Science, and continued at SUNY Polytechnic Institute, where I graduated Magna Cum Laude with a B.S. in Computer Science and a 3.88 GPA. I enjoy solving problems, debugging code, optimizing algorithms, and building systems from the ground up. My academic background gave me a strong foundation in both theory and practical development, which I've applied through research and collaborative projects.\n\nI'm open to opportunities in software development, data analysis, IT, and other roles that encourage growth and continuous learning. Outside of work, I enjoy hiking in the Adirondacks, playing video games, and watching sports with friends. These activities help me stay curious, creative, and balanced.",
 	"links": [
 		{
 			"title": "E-Mail",
-			"value": "thoresonjd@gmail.com",
-			"ref": "mailto:thoresonjd@gmail.com",
+			"value": "farrellelijah@outlook.com",
+			"ref": "mailto:farrellelijah@outlook.com",
 			"icon-path": "assets/icons/mail.svg"
 		},
 		{
-			"title": "LinkedIn",
-			"value": "justinthoreson",
-			"ref": "https://www.linkedin.com/in/justinthoreson/",
-			"icon-path": "assets/icons/linkedin.svg"
-		},
-		{
 			"title": "GitHub",
-			"value": "thoresonjd",
-			"ref": "https://github.com/thoresonjd",
+			"value": "GitHub",
+			"ref": "",
 			"icon-path": "assets/icons/github.svg"
-		},
-		{
-			"title": "GitLab",
-			"value": "thoresonjd",
-			"ref": "https://gitlab.com/thoresonjd",
-			"icon-path": "assets/icons/gitlab.svg"
-		},
-		{
-			"title": "Instagram",
-			"value": "exulgor",
-			"ref": "https://instagram.com/exulgor",
-			"icon-path": "assets/icons/instagram.svg"
-		},
-		{
-			"title": "SoundCloud",
-			"value": "exulgor",
-			"ref": "https://soundcloud.com/exulgor",
-			"icon-path": "assets/icons/soundcloud.svg"
 		}
 	]
 }

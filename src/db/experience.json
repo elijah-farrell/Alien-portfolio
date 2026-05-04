@@ -1,87 +1,29 @@
 [
 	{
-		"position": "Associate Network Engineer, SDET",
-		"employer": "Nintendo",
-		"type": "Contract",
-		"location": "Redmond, WA",
-		"from": "March 2024",
-		"to": "Present",
-		"description": "Engineering for Nintendo Technology Development, contracted through TEKsystems",
-		"bullet-points": []
-	},
-    {
-		"position": "Software Engineer",
-		"employer": "Votegrity",
-		"type": "Part-time",
-		"location": "Remote",
-		"from": "July 2022",
-		"to": "October 2023",
+		"position": "Research Assistant",
+		"employer": "SUNY Polytechnic Institute (CESSAIR)",
+		"type": "Research",
+		"location": "Utica, NY",
+		"from": "Feb 2025",
+		"to": "May 2025",
 		"description": "",
 		"bullet-points": [
-			"Configured backend functionality to election administration tool frontend",
-			"Modified and polished UI previously implemented during Senior Capstone Project",
-			"Instantiated new virtual machine from scratch by upgrading existing software",
-			"React, JavaScript, Python, Azure, VS Code"
-		]
-	},
-    {
-        "position": "Graduate Representative",
-        "employer": "Seattle University Association for Computing Machinery Student Chapter",
-        "type": "Club leadership",
-        "location": "Seattle, WA",
-        "from": "June 2022",
-        "to": "June 2023",
-        "description": "",
-        "bullet-points": [
-            "Facilitated club hackathon, personal projects competition, and other gatherings",
-            "Lead joint club events in collaboration with representatives from other clubs",
-            "Provided academic and career related assistance and advice to fellow computer science students",
-            "Moderated social media and communication channels"
-        ]
-    },
-	{
-		"position": "Software Engineer Intern",
-		"employer": "T-Mobile",
-		"type": "Internship",
-		"location": "Bellevue, WA",
-		"from": "June 2022",
-		"to": "May 2023",
-		"decription": "",
-		"bullet-points": [
-			"Codified architecture for scalable and automated API authentication and authorization assessment tool",
-			"Configured multi-project CI/CD pipeline via YAML that helps several teams test APIs for authorization",
-			"Submitted patent application for API assessment tool",
-			"TypeScript, NodeJS, SQL, Postman, VS Code, GitLab"
+			"Led a small research team of 5 students to develop BORGChat, an AI chat application in C++ on schedule",
+			"Collaborated effectively with team members to solve problems and support project goals",
+			"Coordinated tasks and adapted quickly to new challenges to ensure smooth progress"
 		]
 	},
 	{
-		"position": "Tutor, Teaching Assistant, Grader - Computer Science & Software Engineering",
-		"employer": "Seattle University",
+		"position": "Work Study Assistant",
+		"employer": "The Workplace",
 		"type": "Part-time",
-		"location": "Seattle, WA",
-		"from": "June 2021",
-		"to": "June 2022",
-		"decription": "",
+		"location": "Northern New York",
+		"from": "Aug 2021",
+		"to": "Dec 2021",
+		"description": "",
 		"bullet-points": [
-			"Algorithms and programming boot camp courses",
-			"Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs",
-			"Provided constructive feedback to 100+ students via tutoring and grading",
-			"Java, IntelliJ, Vim, Emacs, GitHub"
-		]
-	},
-	{
-		"position": "Sales Associate",
-		"employer": "The Home Depot",
-		"type": "Seasonal",
-		"location": "Snohomish, WA",
-		"from": "July 2020",
-		"to": "May 2022",
-		"decription": "",
-		"bullet-points": [
-			"Front-line service and store maintainability",
-			"Interacted with customers and vendors, fulfilled online orders, restocked inventory",
-			"Provided recognizable customer service and consistent help to dozens of coworkers",
-			"Certifications: plumbing department, electric ladder, pipe threader, radial arm saw, vertical panel saw"
+			"Performed general duties including facility support and janitorial tasks",
+			"Assisted with basic device troubleshooting and user setup when assigned"
 		]
 	}
 ]
