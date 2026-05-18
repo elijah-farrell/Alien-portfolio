@@ -1,16 +1,14 @@
 <div align="center">
   <h1>
     Personal Portfolio Website<br />
-    <a href="aliens-portfolio.vercel.app">exulgor.com</a>
-    Elijah Farrell
+    <a href="https://aliens-portfolio.vercel.app">aliens-portfolio.vercel.app</a>
   </h1>
   <img src="./assets/alien.png" style="width: 25vw;" alt="alien"/><br />
   <img src="./assets/elijah.png" style="width: 25vw;" alt="Elijah Farrell"/>
 </div>
 
-[![pages-build-deployment](https://github.com/elijah-farrell/react-portfolio/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/elijah-farrell/react-portfolio/actions/workflows/pages/pages-build-deployment)
-[![License](https://img.shields.io/github/license/elijah-farrell/react-portfolio)](LICENSE)
-![Stars](https://img.shields.io/github/stars/elijah-farrell/react-portfolio?logo=github&style=social)
+[![License](https://img.shields.io/github/license/elijah-farrell/Alien-portfolio)](LICENSE)
+![Stars](https://img.shields.io/github/stars/elijah-farrell/Alien-portfolio?logo=github&style=social)
 
 ## Edited by
 Elijah Farrell
@@ -28,7 +26,7 @@ The scanlines and flickering provide the illusion that the website is being disp
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
