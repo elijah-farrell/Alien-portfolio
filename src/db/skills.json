@@ -1,0 +1,38 @@
+[
+	{
+		"category": "Programming languages",
+		"bullet-points": ["Python", "Java", "C++"]
+	},
+	{
+		"category": "IT support",
+		"bullet-points": [
+			"Windows",
+			"Linux",
+			"macOS",
+			"Hardware",
+			"Troubleshooting",
+			"Networking",
+			"Software",
+			"Mobile",
+			"Security"
+		]
+	},
+	{
+		"category": "Web development",
+		"bullet-points": [
+			"HTML",
+			"CSS",
+			"JavaScript",
+			"TypeScript",
+			"React",
+			"Tailwind CSS",
+			"Three.js",
+			"Vite",
+			"Vercel"
+		]
+	},
+	{
+		"category": "Databases",
+		"bullet-points": ["MySQL", "SQLite", "Firebase", "PostgreSQL"]
+	}
+]

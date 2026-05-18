@@ -6,6 +6,10 @@ html, body, #root, .App {
   padding: 0;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 /* Fonts */
 
 @font-face {
@@ -172,7 +176,7 @@ body {
 
 @keyframes home-glitch-skew {
   1% {
-    transform: rotateX(8deg) skewX(72deg);
+    transform: rotateX(8deg) skewX(18deg);
   }
   2% {
     transform: rotateX(0deg) skewX(0deg);

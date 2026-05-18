@@ -95,6 +95,48 @@ export const useStyles: any = makeStyles(() => ({
 		display: 'flex',
 		width: 'fit-content'
 	},
+	timelineFull: {
+		width: '100%',
+		maxWidth: '100%',
+		margin: '0',
+		padding: 0,
+		display: 'block',
+		'& .MuiTimelineItem-root': {
+			width: '100%',
+			minHeight: 'unset',
+			'&::before': {
+				display: 'none'
+			}
+		},
+		'& .MuiTimelineContent-root': {
+			flex: '1 1 auto',
+			maxWidth: 'none',
+			width: '100%',
+			padding: '0 0 1.5rem 1rem'
+		},
+		'& $timelineItem': {
+			width: '100%'
+		},
+		'& $timelineItemContent': {
+			width: '100%',
+			display: 'block'
+		},
+		'& $timelineItemCard': {
+			width: '100%',
+			display: 'block',
+			boxSizing: 'border-box'
+		}
+	},
+	timelineSection: {
+		width: '100%',
+		maxWidth: '100%',
+		boxSizing: 'border-box',
+		padding: '0 clamp(1rem, 4vw, 3rem)'
+	},
+	timelineIntro: {
+		marginBottom: '2vh',
+		textAlign: 'left'
+	},
 	timelineItem: {
 		width: 'fit-content',
 		'&::before': {
@@ -131,6 +173,89 @@ export const useStyles: any = makeStyles(() => ({
 		fontSize: '0.9rem !important',
 		color: colors.White
 	},
+	skillTags: {
+		display: 'flex',
+		flexWrap: 'wrap',
+		gap: '0.5rem',
+		marginTop: '0.75rem'
+	},
+	skillTag: {
+		display: 'inline-flex',
+		alignItems: 'center',
+		justifyContent: 'center',
+		textAlign: 'center',
+		minWidth: '4.75rem',
+		minHeight: '2rem',
+		padding: '0.4rem 0.75rem',
+		border: `1px solid ${colors.Accent}`,
+		borderRadius: '4px',
+		backgroundColor: 'rgba(0, 0, 0, 0.25)',
+		fontFamily: 'monospace',
+		fontSize: '0.7rem',
+		color: colors.White,
+		lineHeight: 1.2,
+		cursor: 'pointer',
+		userSelect: 'none',
+		willChange: 'transform',
+		transition: 'transform 0.2s ease-out, border-color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease',
+		'&:hover': {
+			borderColor: colors.AccentDeep,
+			backgroundColor: 'rgba(147, 51, 234, 0.2)',
+			boxShadow: '0 0 14px rgba(168, 85, 247, 0.45)'
+		}
+	},
+	projectLinksRow: {
+		display: 'flex',
+		flexDirection: 'row',
+		alignItems: 'center',
+		gap: '0.5rem',
+		margin: '0.5rem 0 0.75rem'
+	},
+	projectLinkButton: {
+		display: 'inline-flex',
+		alignItems: 'center',
+		gap: '0.35rem',
+		padding: '0.3rem 0.55rem',
+		border: `1px solid ${colors.Accent}`,
+		borderRadius: '4px',
+		backgroundColor: 'rgba(0, 0, 0, 0.25)',
+		transition: 'background-color 0.2s ease, border-color 0.2s ease',
+		'&:hover': {
+			backgroundColor: 'rgba(173, 255, 47, 0.12)',
+			borderColor: colors.Lime
+		}
+	},
+	projectLinkIconButton: {
+		display: 'inline-flex',
+		alignItems: 'center',
+		justifyContent: 'center',
+		width: '2rem',
+		height: '2rem',
+		padding: '0.35rem',
+		border: `1px solid ${colors.Accent}`,
+		borderRadius: '4px',
+		backgroundColor: 'rgba(0, 0, 0, 0.25)',
+		transition: 'background-color 0.2s ease, border-color 0.2s ease',
+		'&:hover': {
+			backgroundColor: 'rgba(173, 255, 47, 0.12)',
+			borderColor: colors.Lime
+		}
+	},
+	projectLinkIconMui: {
+		color: colors.Accent,
+		fontSize: '0.95rem !important'
+	},
+	projectLinkLabel: {
+		fontFamily: 'monospace !important',
+		fontSize: '0.65rem !important',
+		color: colors.Accent,
+		lineHeight: 1
+	},
+	projectGithubIcon: {
+		display: 'block',
+		width: '1.15rem',
+		height: '1.15rem'
+	},
 	bulletPoint: {
 		display: 'flex'
 	},
@@ -148,21 +273,6 @@ export const useStyles: any = makeStyles(() => ({
 	resume: {
 		display: 'flex',
 		justifyContent: 'center'
-	},
-
-	/*** Music ***/
-
-	musicContainer: {
-		margin: '5vh 0'
-	},
-	musicTitle: {
-		fontFamily: 'press-start !important',
-		fontSize: '2rem',
-		textAlign: 'center',
-		color: colors.Accent
-	},
-	audioPlayer: {
-		margin: '5vh auto'
 	},
 
 	/*** About ***/

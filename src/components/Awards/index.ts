@@ -1,1 +1,0 @@
-export { Awards as default } from './Awards';

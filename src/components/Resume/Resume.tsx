@@ -15,7 +15,7 @@ export const Resume: React.FC = (): JSX.Element => {
 		<>
 			<TabTitle title={title} />
 			<div className={classes.center}>
-				<a href={resume} download='resume' target='_blank' rel="noreferrer">
+				<a href={resume} download='resume' target='_blank' rel='noreferrer'>
 					<div className={`${classes.bodyText} ${classes.textButton}`}>Download resume</div>
 				</a>
 			</div>

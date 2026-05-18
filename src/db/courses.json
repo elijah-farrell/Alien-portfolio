@@ -1,1 +1,74 @@
-[]
+[
+	{
+		"institution": "SUNY Polytechnic Institute",
+		"number": "CS 370",
+		"name": "Software Engineering",
+		"quarter": "Spring",
+		"year": 2025,
+		"grade": "A"
+	},
+	{
+		"institution": "SUNY Polytechnic Institute",
+		"number": "CS 350",
+		"name": "Operating Systems",
+		"quarter": "Fall",
+		"year": 2024,
+		"grade": "A-"
+	},
+	{
+		"institution": "SUNY Polytechnic Institute",
+		"number": "CS 330",
+		"name": "Database Systems",
+		"quarter": "Spring",
+		"year": 2024,
+		"grade": "A"
+	},
+	{
+		"institution": "SUNY Polytechnic Institute",
+		"number": "CS 310",
+		"name": "Computer Networks",
+		"quarter": "Fall",
+		"year": 2023,
+		"grade": "B+"
+	},
+	{
+		"institution": "SUNY Polytechnic Institute",
+		"number": "CS 240",
+		"name": "Data Structures & Algorithms",
+		"quarter": "Spring",
+		"year": 2024,
+		"grade": "A"
+	},
+	{
+		"institution": "Jefferson Community College",
+		"number": "CSC 215",
+		"name": "Object-Oriented Programming",
+		"quarter": "Spring",
+		"year": 2023,
+		"grade": "A"
+	},
+	{
+		"institution": "Jefferson Community College",
+		"number": "CSC 150",
+		"name": "Introduction to Programming",
+		"quarter": "Fall",
+		"year": 2022,
+		"grade": "A"
+	},
+	{
+		"institution": "Jefferson Community College",
+		"number": "MAT 160",
+		"name": "Calculus I",
+		"quarter": "Spring",
+		"year": 2022,
+		"grade": "A-"
+	},
+	{
+		"institution": "Jefferson Community College",
+		"number": "CSC 125",
+		"name": "Computer Science I",
+		"quarter": "Fall",
+		"year": 2021,
+		"grade": "A"
+	}
+]

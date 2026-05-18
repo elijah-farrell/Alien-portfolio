@@ -34,5 +34,20 @@
 			"A.S. in Computer Science",
 			"Transferred to SUNY Polytechnic Institute"
 		]
+	},
+	{
+		"level": "High School",
+		"degree": "High School Diploma",
+		"majors": [],
+		"minors": [],
+		"institution": "Indian River High School",
+		"location": "Philadelphia, NY",
+		"from": "2017",
+		"to": "2021",
+		"status": "graduated",
+		"gpa": "",
+		"bullet-points": [
+			"Advanced Regents Diploma"
+		]
 	}
 ]

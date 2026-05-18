@@ -17,6 +17,11 @@ export const Courses: React.FC = (): JSX.Element => {
 			<Typography className={classes.timelineTitle} variant='h4'>
 				{title}
 			</Typography>
+			<div className={classes.center}>
+				<Typography className={classes.bodyText} component='p' style={{ maxWidth: '85vw', margin: '0 auto 2vh' }}>
+					Placeholder course data for layout preview only — not an official transcript. Real course list coming soon.
+				</Typography>
+			</div>
 			<TableContainer className={classes.courseContainer}>
 				<Table>
 					<TableHead>

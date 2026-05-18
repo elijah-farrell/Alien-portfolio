@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Navbar as NavigationBar, Nav, Container } from 'react-bootstrap';
 import { useStyles } from '../../theme';
 import routes from './routes.json';
-import brand from '../../assets/images/exulgor-drawing.png';
+import brand from '../../assets/images/elijah.png';
 
 export const Navbar: React.FC = (): JSX.Element => {
 	const classes: any = useStyles();
@@ -12,7 +12,7 @@ export const Navbar: React.FC = (): JSX.Element => {
 		<NavigationBar className={classes.navbar} expand='lg'>
 			<Container>
 				<NavigationBar.Brand>
-					<img className={classes.brand} src={brand} alt='brand' />
+					<img className={classes.brand} src={brand} alt='Elijah Farrell' />
 				</NavigationBar.Brand>
 				<NavigationBar.Toggle className={classes.navbarToggler} aria-controls='basic-navbar-nav'>
 					<span></span>

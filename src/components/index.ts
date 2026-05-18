@@ -5,9 +5,8 @@ import Education from './Education';
 import Courses from './Courses';
 import Experience from './Experience';
 import Projects from './Projects';
-import Awards from './Awards';
+import Skills from './Skills';
 import Resume from './Resume';
-import Music from './Music';
 import About from './About';
 import NotFound from './404';
 import Footer from './Footer';
@@ -21,9 +20,8 @@ export {
 	Courses,
 	Experience,
 	Projects,
-	Awards,
+	Skills,
 	Resume,
-	Music,
 	About,
 	NotFound,
 	Footer,

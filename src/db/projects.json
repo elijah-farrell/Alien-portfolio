@@ -1,61 +1,32 @@
 [
 	{
-		"title": "Portfolio Website",
-		"from": "2024",
-		"to": "2025",
-		"description": "My personal portfolio showcasing my projects, experience, and skills with an interactive design.",
-		"bullet-points": [
-			"React",
-			"TypeScript",
-			"Material UI",
-			"GitHub Pages"
-		],
-		"ref": ""
-	},
-	{
 		"title": "More-Armor Mod",
-		"from": "2024",
-		"to": "2025",
-		"description": "A Minecraft Forge mod that adds 36 unique armor sets with animations and unique designs. Features configurable armor stats and visual effects.",
-		"bullet-points": [
-			"Java",
-			"Minecraft 1.20.1",
-			"Minecraft Forge",
-			"Gradle"
-		],
-		"ref": ""
+		"description": "A Minecraft Forge mod that adds 36 unique armor sets with beautiful animations and unique designs. Features fully configurable armor stats and stunning visual effects.",
+		"bullet-points": ["Java", "Minecraft 1.20.1", "Minecraft Forge", "Gradle"],
+		"ref": "https://www.curseforge.com/minecraft/mc-mods/more-armorsets",
+		"ref-label": "CurseForge",
+		"github": "https://github.com/elijah-farrell/More-Armor"
 	},
 	{
-		"title": "Portfolio Template (minimal)",
-		"from": "2024",
-		"to": "2025",
-		"description": "Minimal portfolio template focused on showcasing your work without distractions.",
-		"bullet-points": [
-			"Next.js 15",
-			"React 19",
-			"TypeScript",
-			"Tailwind CSS",
-			"Aceternity UI",
-			"Shadcn UI",
-			"Radix UI",
-			"Framer Motion"
-		],
-		"ref": ""
-	},
-	{
-		"title": "Animated 3D Portfolio Template",
-		"from": "2024",
-		"to": "2025",
+		"title": "Awwwards Portfolio",
 		"description": "A fully animated 3D developer portfolio template with scroll-based interactions designed to showcase work in an immersive way.",
-		"bullet-points": [
-			"React 19",
-			"JavaScript",
-			"Vite",
-			"Tailwind CSS",
-			"Three.js",
-			"GSAP",
-			"Framer Motion"
-		],
-		"ref": ""
+		"bullet-points": ["React 19", "JavaScript", "Vite", "Tailwind CSS", "Three.js", "GSAP", "Framer Motion"],
+		"ref": "https://awwwards-portfolio-template.vercel.app/",
+		"ref-label": "Live demo",
+		"github": "https://github.com/elijah-farrell/Awwwards-Portfolio"
+	},
+	{
+		"title": "Olie's Island Adventure",
+		"description": "Godot 4.5 2D platformer — seaside setting, coins, enemies, and traps. Work in progress: a playable proof of concept I'm building out slowly in my spare time.",
+		"bullet-points": ["Godot 4.5", "GDScript", "2D physics", "Mobile & web export"],
+		"ref": "https://olies-island-adventure.vercel.app/",
+		"ref-label": "Play demo"
+	},
+	{
+		"title": "Cyber Developer Portfolio",
+		"description": "Cyberpunk-inspired — magnetic UI, GSAP motion, command palette (Ctrl/Cmd+K), live Discord status, optional dashboards, Snake easter egg. Still in active development.",
+		"bullet-points": ["Next.js 16", "TypeScript", "Tailwind CSS v4", "GSAP", "Lanyard", "Vitest"],
+		"ref": "https://elijahfarrell.vercel.app/",
+		"ref-label": "Live site"
 	}
 ]

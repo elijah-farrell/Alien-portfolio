@@ -15,13 +15,9 @@
 		"name": "projects",
 		"to": "/projects"
 	},
-    {
-        "name": "awards",
-        "to": "/awards"
-    },
 	{
-		"name": "music",
-		"to": "/music"
+		"name": "skills",
+		"to": "/skills"
 	},
 	{
 		"name": "about",

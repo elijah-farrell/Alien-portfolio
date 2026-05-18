@@ -19,6 +19,9 @@ export const Education: React.FC = (): JSX.Element => {
 				{title}
 			</Typography>
 			<div className={classes.center}>
+				<Typography className={classes.bodyText} component='p' style={{ maxWidth: '85vw', margin: '0 auto 2vh' }}>
+					Degrees earned and highlights from my CS programs.
+				</Typography>
 				<Link to={'/courses'}>
 					<div className={`${classes.bodyText} ${classes.textButton}`}>See courses taken</div>
 				</Link>

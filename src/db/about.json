@@ -1,6 +1,6 @@
 {
 	"name": "Elijah Farrell",
-	"description": "My journey began at Jefferson Community College, where I earned my A.S. in Computer Science, and continued at SUNY Polytechnic Institute, where I graduated Magna Cum Laude with a B.S. in Computer Science and a 3.88 GPA. I enjoy solving problems, debugging code, optimizing algorithms, and building systems from the ground up. My academic background gave me a strong foundation in both theory and practical development, which I've applied through research and collaborative projects.\n\nI'm open to opportunities in software development, data analysis, IT, and other roles that encourage growth and continuous learning. Outside of work, I enjoy hiking in the Adirondacks, playing video games, and watching sports with friends. These activities help me stay curious, creative, and balanced.",
+	"description": "I'm based in Northern New York. My journey began at Jefferson Community College, where I earned my A.S. in Computer Science, and continued at SUNY Polytechnic Institute, where I graduated Magna Cum Laude with a B.S. in Computer Science and a 3.88 GPA. I enjoy solving problems, debugging code, optimizing algorithms, and building systems from the ground up. My academic background gave me a strong foundation in both theory and practical development, which I've applied through research and collaborative projects.\n\nI'm open to opportunities in software development, data analysis, IT, and other roles that encourage growth and continuous learning. Outside of work, I enjoy hiking in the Adirondacks, playing video games, and watching sports with friends. These activities help me stay curious, creative, and balanced.",
 	"links": [
 		{
 			"title": "E-Mail",
@@ -10,8 +10,8 @@
 		},
 		{
 			"title": "GitHub",
-			"value": "GitHub",
-			"ref": "",
+			"value": "elijah-farrell",
+			"ref": "https://github.com/elijah-farrell",
 			"icon-path": "assets/icons/github.svg"
 		}
 	]

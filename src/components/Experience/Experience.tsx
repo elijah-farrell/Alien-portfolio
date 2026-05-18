@@ -17,13 +17,19 @@ export const Experience: React.FC = (): JSX.Element => {
 			<Typography className={classes.timelineTitle} variant='h4'>
 				{title}
 			</Typography>
-			<Timeline
-				data={experience}
-				icon={WorkIcon}
-				element={(timelineItem: any) =>
-					<ExperienceItem experienceItem={timelineItem} />
-				}
-			/>
+			<div className={classes.timelineSection}>
+				<Typography className={`${classes.bodyText} ${classes.timelineIntro}`} component='p'>
+					An overview of my professional journey so far.
+				</Typography>
+				<Timeline
+					align='full'
+					data={experience}
+					icon={WorkIcon}
+					element={(timelineItem: any) =>
+						<ExperienceItem experienceItem={timelineItem} />
+					}
+				/>
+			</div>
 		</>
 	);
 };

@@ -7,9 +7,8 @@ import {
 	Courses,
 	Experience,
 	Projects,
-	Awards,
+	Skills,
 	Resume,
-	Music,
 	About,
 	NotFound
 } from '../';
@@ -24,9 +23,8 @@ export const Router: React.FC = (): JSX.Element => {
 				<Route path='/courses' element={<Courses />} />
 				<Route path='/experience' element={<Experience />} />
 				<Route path='/projects' element={<Projects />} />
-				<Route path='/awards' element={<Awards />} />
+				<Route path='/skills' element={<Skills />} />
 				<Route path='/resume' element={<Resume />} />
-				<Route path='/music' element={<Music />} />
 				<Route path='/about' element={<About />} />
 				<Route path='*' element={<NotFound />} />
 			</Routes>

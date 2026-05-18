@@ -17,6 +17,8 @@ export const Projects: React.FC = (): JSX.Element => {
 			<Typography className={classes.timelineTitle} variant='h4'>
 				{title}
 			</Typography>
+			<div className={classes.center}>
+			</div>
 			<Timeline
 				data={projects}
 				icon={BuildIcon}

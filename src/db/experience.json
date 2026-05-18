@@ -1,5 +1,17 @@
 [
 	{
+		"position": "Daytime Janitor",
+		"employer": "The ARC Jefferson",
+		"type": "Part-time",
+		"location": "Watertown, NY",
+		"from": "Nov 2025",
+		"to": "Present",
+		"description": "",
+		"bullet-points": [
+			"Performed janitorial duties at a nonprofit facility, including routine cleaning, sanitation, and supply restocking while supporting staff requests and maintaining a safe environment."
+		]
+	},
+	{
 		"position": "Research Assistant",
 		"employer": "SUNY Polytechnic Institute (CESSAIR)",
 		"type": "Research",
@@ -8,9 +20,10 @@
 		"to": "May 2025",
 		"description": "",
 		"bullet-points": [
-			"Led a small research team of 5 students to develop BORGChat, an AI chat application in C++ on schedule",
+			"Led the development and deployment of a software application as part of a supervised academic research project",
 			"Collaborated effectively with team members to solve problems and support project goals",
-			"Coordinated tasks and adapted quickly to new challenges to ensure smooth progress"
+			"Coordinated tasks and adapted quickly to new challenges to ensure smooth progress",
+			"Gained experience working in a structured technical environment using software tools and following development workflows."
 		]
 	},
 	{
@@ -22,8 +35,8 @@
 		"to": "Dec 2021",
 		"description": "",
 		"bullet-points": [
-			"Performed general duties including facility support and janitorial tasks",
-			"Assisted with basic device troubleshooting and user setup when assigned"
+			"Performed general duties including facility support and janitorial tasks.",
+			"Assisted with basic device troubleshooting and user setup when assigned."
 		]
 	}
 ]

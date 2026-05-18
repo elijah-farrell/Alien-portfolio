@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Typography, Avatar, List, ListItem, Icon, Link as MuiLink, Zoom, Fade } from '@mui/material';
 import TabTitle from '../TabTitle';
 import { useStyles } from '../../theme';
-import avatar from '../../assets/images/alien-lime.png';
+import avatar from '../../assets/images/alien.png';
 import about from '../../db/about.json';
 
 export const About: React.FC = (): JSX.Element => {
@@ -14,6 +14,11 @@ export const About: React.FC = (): JSX.Element => {
 	return (
 		<>
 			<TabTitle title={title} />
+			<div className={classes.center}>
+				<Typography className={classes.bodyText} component='p' style={{ maxWidth: '85vw', margin: '0 auto 2vh' }}>
+					Get to know me better — my journey, achievements, and passion for technology.
+				</Typography>
+			</div>
 			<div className={classes.aboutBox}>
 				<Zoom in={true}>
 					<Avatar
@@ -27,7 +32,7 @@ export const About: React.FC = (): JSX.Element => {
 				</Zoom>
 				<div className={classes.center}>
 					<Link to={'/resume'}>
-						<div className={`${classes.bodyText} ${classes.textButton}`}>See resume</div>
+						<div className={`${classes.bodyText} ${classes.textButton}`}>View resume</div>
 					</Link>
 				</div>
 				<div className={classes.aboutDescriptionBox}>
