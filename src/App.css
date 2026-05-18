@@ -92,33 +92,6 @@ body {
   100% { opacity: 0.24387; }
 }
 
-/* Scrollbar */
-
-::-webkit-scrollbar {
-  width: 0.5vw;
-  height: 1vh;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: transparent; 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #6d28d9;
-  border-radius: 10px;
-}
-
-  ::-webkit-scrollbar-thumb:hover {
-    background: #7c3aed; 
-  }
-
-/* Corner */
-::-webkit-scrollbar-corner {
-  background: transparent;
-}
-
 /* --- Home: name only — glitch via text-shadow + skew (no extra layers / bars behind text) --- */
 
 .home-glitch-hero {
