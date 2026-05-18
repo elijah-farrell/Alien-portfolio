@@ -15,9 +15,6 @@ export const About: React.FC = (): JSX.Element => {
 		<>
 			<TabTitle title={title} />
 			<div className={classes.center}>
-				<Typography className={classes.bodyText} component='p' style={{ maxWidth: '85vw', margin: '0 auto 2vh' }}>
-					Get to know me better — my journey, achievements, and passion for technology.
-				</Typography>
 			</div>
 			<div className={classes.aboutBox}>
 				<Zoom in={true}>
