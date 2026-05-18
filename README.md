@@ -2,24 +2,24 @@
   <h1>
     Personal Portfolio Website<br />
     <a href="https://exulgor.com">exulgor.com</a>
+    Elijah Farrell
   </h1>
-  <img src="./assets/alien-lime.png" style="width: 25vw;" alt="alien"/><br />
-  <img src="./assets/exulgor-drawing.png" style="width: 25vw;" alt="exulgor"/>
+  <img src="./assets/alien.png" style="width: 25vw;" alt="alien"/><br />
+  <img src="./assets/elijah.png" style="width: 25vw;" alt="Elijah Farrell"/>
 </div>
 
-[![pages-build-deployment](https://github.com/thoresonjd/react-portfolio/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/thoresonjd/react-portfolio/actions/workflows/pages/pages-build-deployment)
-[![Code Climate](https://codeclimate.com/github/thoresonjd/react-portfolio/badges/gpa.svg)](https://codeclimate.com/github/thoresonjd/react-portfolio)
-[![License](https://img.shields.io/github/license/thoresonjd/react-portfolio)](LICENSE)
-![Stars](https://img.shields.io/github/stars/thoresonjd/react-portfolio?logo=github&style=social)
+[![pages-build-deployment](https://github.com/elijah-farrell/react-portfolio/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/elijah-farrell/react-portfolio/actions/workflows/pages/pages-build-deployment)
+[![License](https://img.shields.io/github/license/elijah-farrell/react-portfolio)](LICENSE)
+![Stars](https://img.shields.io/github/stars/elijah-farrell/react-portfolio?logo=github&style=social)
 
-## Created by
-Justin Thoreson a.k.a. Exulgor
+## Edited by
+Elijah Farrell
 
 ## Description
-My personal portfolio website portraying elements of my background including education, experience, and projects.
+My personal portfolio website portraying elements of my background including education, experience, projects, and skills.
 
 ## Style 
-The scanlines and flickering provide the illusion that the website is being displayed on a retro cathode-ray tube monitor. Furthermore, the colors lime, black, and white are influenced by the appearences of many command lines. The font, transitions, and animations are meant to convey a style akin to that of a video game; the background particles specifically liven the video game style by achieving an outer space effect.
+The scanlines and flickering provide the illusion that the website is being displayed on a retro cathode-ray tube monitor. Furthermore, the royal purple, violet, black, and white palette is influenced by the appearances of many command lines. The font, transitions, and animations are meant to convey a style akin to that of a video game; the background particles specifically liven the video game style by achieving an outer space effect.
 
 ## Tools & Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,4 +37,4 @@ The scanlines and flickering provide the illusion that the website is being disp
 ![GoDaddy](https://img.shields.io/badge/GoDaddy-1adddb?style=for-the-badge)
 
 ## Usage
-Permission is granted, to any that seek usage of this software, to fork and modify it under the condition that the creator, myself, Justin Thoreson, shall be recognized through proper attribution. Please cite my name and provide a reference to the original copy of this software in the formal documentation. See the [license](LICENSE) for further details. Thanks! :)
+This project is based on [react-portfolio](https://github.com/thoresonjd/react-portfolio) by Justin Thoreson. Permission is granted, to any that seek usage of this software, to fork and modify it under the condition that the original creator shall be recognized through proper attribution. Please cite Justin Thoreson and provide a reference to the original copy of this software in the formal documentation. See the [license](LICENSE) for further details.
